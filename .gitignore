@@ -41,3 +41,9 @@ jspm_packages
 
 # Learn-specific .results.json
 .results.json
+
+# temp backups
+*_bu
+
+# VS Code related
+.vs*
